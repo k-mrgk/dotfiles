@@ -1,0 +1,14 @@
+[core]
+    excludesfile = ~/.gitignore
+    preloadindex = true
+
+[color]
+    ui = auto
+
+[ghq]
+    root=~/workspace/repo/
+
+[user]
+	name = k-mrgk
+    email = ko.mrgk@gmail.com
+
